@@ -5,7 +5,7 @@ Microsoft Visual Studio
 C++
 
 ## App Description
-This is an assignment for a univeristy course. 
+This is an assignment for am univeristy course. 
 Course prompt and objectives. 
 
 """
